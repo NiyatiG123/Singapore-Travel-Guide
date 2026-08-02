@@ -1,0 +1,44 @@
+/* ==== Reset ==== */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-tox;
+}
+
+/* ==== Header ==== */
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 60px;
+}
+
+/* ==== Logo ==== */
+.logo {
+    font-size: 28px;
+}
+
+/* ==== Logo ==== */
+
+.logo {
+    font-size: 28px;
+}
+
+/* ==== Navigation ==== */
+
+nav {
+    display: flex;
+    gap: 30px;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
