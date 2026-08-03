@@ -64,3 +64,34 @@ nav a:hover {
     padding: 12px 24px;
     cursor: pointer;
 }
+
+/* Places Section */
+
+.places {
+    padding: 50px 20px;
+}
+
+.places h2{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.place-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.place-card {
+    width: 220px;
+    border: 2px solid black;
+    padding: 15px;
+    text-align: center;
+}
+
+.place-card img {
+    width: 100px;
+    height: 140px;
+    object-fit: cover;
+    margin-bottom: 10px;
+}
