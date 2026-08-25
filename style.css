@@ -46,23 +46,40 @@ nav a:hover {
 /* Hero Section */
 
 .hero {
+    height: 255px;
+
+    background-image: url("images/hero.jpg");
+    background-size: cover;
+    background-position: center;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
     text-align: center;
-    padding: 80px 20px;
 }
 
 .hero h1 {
-    font-size: 48px;
-    margin-bottom: 20px;
+    font-size: 62px;
+    margin-bottom: 25px;
+    color: white;
 }
 
 .hero p {
-    font-size: 18px;
-    margin-bottom: 30px;
+    font-size: 16px;
+    margin-bottom: 25px;
+    color: white;
 }
 
 .hero button {
-    padding: 12px 24px;
+    padding: 8px 30px;
     cursor: pointer;
+
+    background-color: #ff7f82;
+    color: white;
+
+    border: none;
+    border-radius: 5px;
 }
 
 /* Places Section */
