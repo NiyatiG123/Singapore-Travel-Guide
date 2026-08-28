@@ -109,18 +109,20 @@ nav a:hover {
 /* Places Section */
 
 .places {
-    padding: 50px 20px;
+    padding: 35px 5%;
+    background-color: #fff0f0;
 }
 
 .places h2{
     text-align: left;
-    margin-bottom: 30px;
+    font-size: 20px;
+    margin-bottom: 20px;
 }
 
 .place-container {
     display: flex;
     justify-content: space-between;
-    gap: 40px;
+    gap: 30px;
 }
 
 .place-card {
@@ -128,7 +130,9 @@ nav a:hover {
     background-color:  #f9b9ba;
     border-radius: 10px;
     padding: 10px;
-    text-align: center;
+    text-align: left;
+    text-decoration: none;
+    color: black;
 }
 
 .place-card img {
@@ -136,19 +140,21 @@ nav a:hover {
     height: 120px;
     object-fit: cover;
     border-radius: 7px;
-    margin-bottom: 10px;
+    display: block;
+    margin-bottom: 8px;
 }
 
 .place-card h3 {
     font-size: 12px;
-    text-align: left;
     margin-bottom: 6px;
 }
 
 .place-card p{
     font-size: 9px;
-    text-align: left;
+    line-height: 1.4;
 }
+
+/* Places Page */
 
 .page-header {
     background-color: #fff0f0;
