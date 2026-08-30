@@ -349,7 +349,35 @@ nav a:hover {
 /* Footer */
 
 footer {
+    background-color: #ff7f82;
+    color: white;
     text-align: center;
     padding: 30px;
-    border-top: 2px solid black;
+}
+
+footer p {
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.footer-links {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    margin-bottom: 15px;
+}
+
+.footer-links a {
+    color: white;
+    text-decoration: none;
+    font-size: 11px;
+}
+
+.footer-links a:hover {
+    text-decoration: underline;
+}
+
+footer small {
+    font-size: 9px;
 }
