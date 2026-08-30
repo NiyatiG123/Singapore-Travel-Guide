@@ -259,33 +259,50 @@ nav a:hover {
 /* Food Section */
 
 .food {
-    padding: 50px 20px;
+    padding: 45px 5%;
+    background-color: #fff0f0;
 }
 
 .food h2 {
-    text-align: center;
-    margin-bottom: 30px;
+    font-size: 24px;
+    margin-bottom: 25px;
 }
 
 .food-container {
     display: flex;
     justify-content: center;
-    gap: 20px;
-    flex-wrap: wrap;
+    align-items: center;
+    gap: 35px;
 }
 
 .food-card {
-    width: 220px;
-    border: 2px solid black;
-    padding: 15px;
+    width: 140px;
     text-align: center;
 }
 
 .food-card img {
-    width: 100%;
+    width: 140px;
     height: 140px;
     object-fit: cover;
-    margin-bottom: 10px;
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto 10px;
+}
+
+.food-card h3 {
+    font-size: 12px;
+}
+
+.food-card:nth-child(2) {
+    margin-top: 30px;
+}
+
+.food-card:nth-child(3) {
+    margin-top: -15px;
+}
+
+.food-card:nth-child(4) {
+    margin-top: 25px;
 }
 
 /* Travel Tips Section */
