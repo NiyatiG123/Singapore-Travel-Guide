@@ -9,7 +9,7 @@
 /* ==== Body ==== */
 
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 
 /* ==== Header ==== */
@@ -293,6 +293,8 @@ nav a:hover {
     font-size: 12px;
 }
 
+/* Food Circle Positions */
+
 .food-card:nth-child(2) {
     margin-top: 30px;
 }
@@ -330,10 +332,6 @@ nav a:hover {
     padding: 25px;
     text-align: left;
     min-height: 250px;
-}
-
-.tips-card img {
-    display: none;
 }
 
 .tips-card h3 {
