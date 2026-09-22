@@ -119,6 +119,15 @@ nav a:hover {
     margin-bottom: 25px;
 }
 
+.places h2 a {
+    color: black;
+    text-decoration: none;
+}
+
+.places h2 a:hover {
+    text-decoration: underline;
+}
+
 .place-container {
     display: flex;
     justify-content: space-between;
@@ -226,6 +235,15 @@ nav a:hover {
     margin-bottom: 25px;
 }
 
+.culture h2 a {
+    color: black;
+    text-decoration: none;
+}
+
+.culture h2 a:hover {
+    text-decoration: underline;
+}
+
 .culture-container {
     display: flex;
     justify-content: center;
@@ -237,6 +255,8 @@ nav a:hover {
     background-color: #f9b9ba;
     border-radius: 50% 50% 12px 12px;
     overflow: hidden;
+    text-decoration: none;
+    color: black;
 }
 
 .culture-card img {
@@ -268,6 +288,15 @@ nav a:hover {
     margin-bottom: 25px;
 }
 
+.food h2 a {
+color: black;
+text-decoration: none;
+}
+
+.food h2 a:hover {
+text-decoration: underline;
+}
+
 .food-container {
     display: flex;
     justify-content: center;
@@ -283,6 +312,11 @@ nav a:hover {
     display: flex;
     flex-direction: column;
     align-items: center;
+}
+
+.food-card {
+    text-decoration: none;
+    color: black;
 }
 
 .food-card img {
@@ -351,6 +385,8 @@ nav a:hover {
     padding: 25px;
     text-align: left;
     min-height: 250px;
+    text-decoration: none;
+    color: black;
 }
 
 .tips-card h3 {
