@@ -94,8 +94,21 @@ Proximity – Related items are close; unrelated items have space.
 Consistency – Same fonts, colours, and styles across pages.
 Balance – Not too crowded or too empty.
 White Space – Enough empty space around text and images.
-Score (0–6): 
+Score (0–6): 4
 Feedback:
+
+I believe that this the colours and fonts used on the website are nice. They are 
+easy to read and understand. I also think that the contrast is nice because they 
+have not used many different clashing colours, they have stuck to various shades of pink
+like a lighter pink for the background and a darker shade of pink for important buttons navigation
+bar. The only other colour used except for the pink is black and white, which go well with the 
+pinks. Mostly, everything is lined neatly. I reckon that the text and images for all the sections are lined up 
+nicely, except for the food section on the homepage. This is because the food images and the text underneath, 
+are not lined up nicely. For example, the chicken rice image and the text which says chicken rice underneath it
+is not straight it is more towards the left. The same font is pretty much used for the whole website, like the homepage
+is great, but on another page I noticed that the font wasn't the same. So, in terms of the homepage it's good but
+it's not fully consistent across all the page including the different html for places, culture, food and tips. It's spaced 
+out nicely, not too crowded or too empty and there is just the right amount of space around the text and images.
 ___________________________________________________________
 
 2. Functionality – Does it work?
@@ -104,8 +117,13 @@ Navigation – Menus and buttons take you where expected.
 Scrolling – You can scroll without problems.
 Page Load – No errors; all images and text appear.
 Responsive – Works well on a desktop screen.
-Score (0–5): 
+Score (0–5): 4
 Feedback:
+I found that the website was working well overall. I could use the navigation links and the buttons without any major problems, 
+and the images and text loaded correctly. I was also able to scroll through the website without any problems. However, I noticed 
+that some of the navigation links only took me to a section on the homepage rather than a separate page, and some links did not 
+take me directly to the specific section I expected. I think the navigation could be improved so that the links take me directly 
+to the correct page and section.
 ___________________________________________________________
 
 3. Usability – Is it easy to use?
@@ -113,17 +131,26 @@ Readability – Text is big enough and easy to read.
 Accessibility – Clear headings, alt text for images, good contrast.
 Find Info – Information is easy to find.
 User Friendly – Feels welcoming and clear.
-Score (0–4): _______
+Score (0–4): 3
 
 Feedback:
+I found the website easy to understand because the headings clearly showed what each section was about. I could read the text 
+and find the information without much difficulty, and the images had descriptive alt text. However, I thought some of the text, 
+especially the headings, was a little small. I think increasing the font size slightly and keeping the font consistent across 
+all of the pages would make the website easier to read.
 ___________________________________________________________
 
 4. Bonus Criteria (Optional)
 Purpose – Easy to see what the site is about.
 Engaging – Makes you want to explore more.
 Spelling – No big spelling or grammar mistakes.
-Score (0–3): _______
+Score (0–3): 2
 Feedback:
+
+I could easily tell that the website was about travelling to and learning about Singapore because of the headings, images and information. 
+I also thought the colours made the website more interesting and helped make it feel more welcoming. However, I think some of the pages
+could have more original information instead of repeating information from the homepage. I also noticed that some of the headings were not 
+clickable, so making these links more obvious could encourage me to explore more of the website.
 ___________________________________________________________
 
 
