@@ -510,3 +510,11 @@ footer small {
 .tip-text p:last-child {
     margin-bottom: 0;
 }
+
+html {
+    scroll-behavior: smooth;
+}
+
+.content-card {
+    scroll-margin-top: 60px;
+}

@@ -57,7 +57,6 @@ I found the website easy to read and I thought the text was a good size.
 The headings made it easy for me to understand what each section was about, 
 and the images had clear descriptions. Because the homepage was quite simple at this stage, 
 I could easily find the information that was there.
-
 I think the text could be slightly bigger in some areas to make it even easier to read. 
 I also think the website could feel more welcoming if it had more colour and a more interesting font. 
 Since this was only Sprint 1, I think adding more design elements and content
@@ -72,7 +71,6 @@ Score (0–3): 2
 Feedback: 
 I could understand that the website was about Singapore because of the headings and the content 
 that was already there. I also didn't notice any spelling or grammar mistakes, so the text was clear.
-
 However, I didn't feel that there was a lot that made me want to explore the website yet. 
 The homepage was quite basic because it mainly focused on the layout rather than the final content. 
 I think adding more information underneath the headings, along with more images and colour, 
@@ -96,7 +94,7 @@ Proximity – Related items are close; unrelated items have space.
 Consistency – Same fonts, colours, and styles across pages.
 Balance – Not too crowded or too empty.
 White Space – Enough empty space around text and images.
-Score (0–6): _______
+Score (0–6): 
 Feedback:
 ___________________________________________________________
 
@@ -106,7 +104,7 @@ Navigation – Menus and buttons take you where expected.
 Scrolling – You can scroll without problems.
 Page Load – No errors; all images and text appear.
 Responsive – Works well on a desktop screen.
-Score (0–5): _______
+Score (0–5): 
 Feedback:
 ___________________________________________________________
 
