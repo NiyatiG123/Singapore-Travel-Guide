@@ -20,7 +20,6 @@ I found the website easy to read and I thought everything was lined up neatly.
 The text was clear and the layout was simple to understand.
 Since this was Sprint 1, I understand that the website was intentionally kept simple, 
 but I think adding some colour and a more interesting font would make it more visually appealing.
-
 I also noticed that there was quite a lot of white space next to the images. I think the 
 images could be made bigger or the spacing could be adjusted. I also think there could be a little 
 more space between some of the sections so they don't feel too close together.
@@ -39,7 +38,6 @@ I found that the website worked well when I used it. I was able to scroll
 through the homepage without any problems, and the images and text loaded correctly. 
 The navigation links I tested also worked as expected, and the website displayed properly 
 on a desktop screen.
-
 I didn't notice any major functionality problems that needed to be fixed at this stage.
 As the website develops, I would still recommend testing the new pages and links 
 that are added to make sure everything continues to work correctly.
@@ -170,8 +168,16 @@ Proximity – Related items are close; unrelated items have space.
 Consistency – Same fonts, colours, and styles across pages.
 Balance – Not too crowded or too empty.
 White Space – Enough empty space around text and images.
-Score (0–6): _______
+Score (0–6): 6
 Feedback:
+
+I found the website visually appealing as the colours, fonts and overall layout are consistent throught the different pages of the website. 
+The pink colour palette works well with the black and white text, and the contrast makes the content nice and easy to read. The images and
+texts are also arranged neatly, meaning they don't look messy. I also noticed that the food section has improved because the food images 
+and names underneath them are now aligned properly. The spacing between the different sections also feel balanced, so the website doesn't 
+feel like its over croweded or too empty. One possible improvement would be to add more interactive design features or even trying to change 
+some of the html pages, as the places, culture and food pages have the exact same layout, so maybe could try and change them up next. Still, I 
+believe that overall the final design is much more complete than the earlier versions. 
 ___________________________________________________________
 
 2. Functionality – Does it work?
@@ -180,8 +186,14 @@ Navigation – Menus and buttons take you where expected.
 Scrolling – You can scroll without problems.
 Page Load – No errors; all images and text appear.
 Responsive – Works well on a desktop screen.
-Score (0–5): _______
+Score (0–5): 5
 Feedback:
+
+I found that the website worked correctly during my checking. The navigation links took me to the correct pages, and the cards on the homepage
+took me directly to the relevant sections. For example, when I clicked on Chinese New Year or Hari Raya, I was taken to the correct section 
+on the Culture page rather than just the top of the page. The food, places and travel tips links also took me to the correct information. 
+The images and text loaded correctly, and I could scroll through the pages without any problems. I also noticed that the Travel Tips heading
+is now clickable, which makes the website easier to navigate.
 ___________________________________________________________
 
 3. Usability – Is it easy to use?
@@ -189,15 +201,26 @@ Readability – Text is big enough and easy to read.
 Accessibility – Clear headings, alt text for images, good contrast.
 Find Info – Information is easy to find.
 User Friendly – Feels welcoming and clear.
-Score (0–4): _______
+Score (0–4): 4
 
 Feedback:
+
+I found that the website was nice and easy to read. This is because the navigation bar is consistent across the website and also the headings
+and all the information is clear. The font size has also been increased, which makes the headings and information easier to read than in the earlier 
+version. The website uses clear headings, descriptive image alt text and good colour contrast. The links are also easier to identify as the headings 
+and images are clickable, and when you hover on the headings it underlines it which makes it real easy to know that it's a link. I feel like the website
+is easy for a new user to understand and navigate around. 
 ___________________________________________________________
 
 4. Bonus Criteria (Optional)
 Purpose – Easy to see what the site is about.
 Engaging – Makes you want to explore more.
 Spelling – No big spelling or grammar mistakes.
-Score (0–3): _______
+Score (0–3): 3
 Feedback:
+
+I could immediately tell that the website was about travelling to and learning about Singapore because of the headings, images and information. 
+The website is also more engaging than the first version because it has more colour, larger text, images and separate pages with more detailed information.
+I think the final version encourages users to explore the different sections because the cards and headings are clickable and take users directly to the 
+relevant information. I did not notice any major spelling or grammar mistakes while looking at the final version.
 ___________________________________________________________
